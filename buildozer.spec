@@ -26,3 +26,4 @@ android.sdk_path =
 android.gradle_dependencies = 
 android.ndk_api = 21
 android.archs = arm64-v8a, armeabi-v7a
+android.build_tools_version = 34.0.0
